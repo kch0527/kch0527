@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - I'm ChanHoe kim
 - Back-end
 - student
@@ -11,7 +10,7 @@
 
 ## Skills🚀
 <p >
-<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
