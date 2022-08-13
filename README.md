@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**kch0527/kch0527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm ChanHoe kim
+- Back-end
+- student
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://jhgu.tistory.com"><img src="https://img.shields.io/badge/jhgu.tistory.com?style=flat-square&logo=Vimeo&logoColor=white&link=https://jhgu.tistory.com"/></a> 
+  <img src="https://img.shields.io/badge/jhgu127@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills🚀
+<p >
+<img src="https://img.shields.io/badge/java-6DB33F?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+</p>
