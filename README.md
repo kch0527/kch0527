@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I'm ChanHoe kim
-- junior ack-end developer
+- junior Back-end developer
 
 <p>
   <a href="https://jhgu.tistory.com"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jhgu.tistory.com"/></a> 
