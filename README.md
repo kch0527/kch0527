@@ -2,8 +2,7 @@
 - I'm ChanHoe kim
 - junior Back-end developer
 
-<p>
-  <a href="https://jhgu.tistory.com"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://jhgu.tistory.com"/></a> 
+<p> 
   <img src="https://img.shields.io/badge/jhgu127@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
 </p>
 
