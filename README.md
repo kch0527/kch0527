@@ -17,5 +17,4 @@
 <img src="https://img.shields.io/badge/MairaDB-bcbcbc?style=flat-square&logo=MairaDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-6fa8dc?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/jquery-6fa8dc?style=flat-square&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6fa8dc?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
